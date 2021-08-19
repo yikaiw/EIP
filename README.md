@@ -1,5 +1,5 @@
 # EIP: Elastic Interaction of Particles
-[ACMMM 2021] Code release for paper [**"Elastic Tactile Simulation Towards Tactile-Visual Perception"**](https://arxiv.org/pdf/2108.05013.pdf), in ACMMM (Oral) 2021
+Code release for paper [**"Elastic Tactile Simulation Towards Tactile-Visual Perception"**](https://arxiv.org/pdf/2108.05013.pdf), in ACMMM (Oral) 2021
 
 By Yikai Wang, Wenbing Huang, Bin Fang, Fuchun Sun, Chang Li.
 
