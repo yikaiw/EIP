@@ -46,7 +46,11 @@ Will obtain fine-grained tacile patterns like,
 
 <p align="center"><img src="assets/patterns.png" width="920" /></p>
 
-Simulated particles of the tactile sensor will be automatically saved, which can be viewed with [Meshlab](https://www.meshlab.net/). We adopt [Mitsuba](http://www.mitsuba-renderer.org/) for rendering.
+Simulated particles of the tactile sensor will be automatically saved, which can be visualized with [Meshlab](https://www.meshlab.net/),
+
+<p align="center"><img src="assets/particles.png" width="520" /></p>
+
+Particles can be reconstructed to meshes by Meshlab (e.g., Surface Reconstruction). We adopt [Mitsuba](http://www.mitsuba-renderer.org/) for rendering.
 
 EIP is based on [Taichi](https://github.com/taichi-dev/taichi). Thanks for the great work.
 
