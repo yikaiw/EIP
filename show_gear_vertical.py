@@ -303,7 +303,7 @@ def robot(scene, exp_name):
     block_size = 0.1
     global center_von, center_ela
     center_ela = {1: None, -1: None}
-    center_von = scene.add_from_file('obj/voxels_cylinder_vertical_gear.obj', exp_name,
+    center_von = scene.add_from_file('obj/gear_voxels.obj', exp_name,
                                       0.16, 0, scene.new_actuator(), 2, 
                                       max_particles=100000)
     center_ela[1] = scene.add_rect(0., 0., 0., 0.24, 0.04, 0.24, -1, 1)
