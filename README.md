@@ -20,7 +20,7 @@ If you find our work useful for your research, please consider citing the follow
 ## Dependencies
 ```
 python==3.7.6
-taichi==0.6.29
+taichi==0.6.32
 pytorch==1.6.0
 pytorch3d==0.2.5
 imageio==2.9.0
@@ -28,7 +28,6 @@ open3d==0.11.0
 opencv-python==4.4.0
 openexr==2.4.1
 ```
-
 
 ## Scripts
 
