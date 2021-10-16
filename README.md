@@ -51,7 +51,7 @@ Simulated particles of the tactile sensor will be automatically saved, which can
 
 Particles can be reconstructed to meshes by Meshlab (e.g., Surface Reconstruction). We adopt [Mitsuba](http://www.mitsuba-renderer.org/) for rendering.
 
-EIP is based on [Taichi](https://github.com/taichi-dev/taichi). Thanks for the great work.
+We thank a lot for the flexible codebase of [Taichi](https://github.com/taichi-dev/taichi).
 
 ## License
 
