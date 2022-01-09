@@ -31,6 +31,7 @@ openexr==2.4.1
 
 ## Scripts
 
+We provide two objects (torus and gear) as examples.
 
 First, transform mesh to voxels
 ```
@@ -50,6 +51,10 @@ Simulated particles of the tactile sensor will be automatically saved, which can
 <p align="center"><img src="assets/particles.png" width="520" /></p>
 
 Particles can be reconstructed to meshes by Meshlab (e.g., Surface Reconstruction). We adopt [Mitsuba](http://www.mitsuba-renderer.org/) for rendering.
+
+Similarly, performing the vertical contact on the gear object (`show_gear_vertical.py`) provides the following deformation (after rendering),
+
+<p align="center"><img src="assets/gear.png" width="920" /></p>
 
 We thank a lot for the flexible codebase of [Taichi](https://github.com/taichi-dev/taichi).
 
