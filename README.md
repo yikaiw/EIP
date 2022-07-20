@@ -6,16 +6,6 @@ By Yikai Wang, Wenbing Huang, Bin Fang, Fuchun Sun, Chang Li.
 <p align="center"><img src="assets/intro.png" width="820" /></p>
 
 
-If you find our work useful for your research, please consider citing the following paper.
-```
-@inproceedings{wang2021eip,
-  title={Elastic Tactile Simulation Towards Tactile-Visual Perception},
-  author={Wang, Yikai and Huang, Wenbing and Fang, Bin and Sun, Fuchun and Li, Chang},
-  booktitle={ACM International Conference on Multimedia (ACM MM)},
-  year={2021}
-}
-```
-
 
 ## Dependencies
 ```
@@ -57,6 +47,19 @@ Similarly, performing the vertical contact on the gear object (`show_gear_vertic
 <p align="center"><img src="assets/gear.png" width="920" /></p>
 
 We thank a lot for the flexible codebase of [Taichi](https://github.com/taichi-dev/taichi).
+
+## Citation
+
+If you find our work useful for your research, please consider citing the following paper.
+```
+@inproceedings{wang2021eip,
+  title={Elastic Tactile Simulation Towards Tactile-Visual Perception},
+  author={Wang, Yikai and Huang, Wenbing and Fang, Bin and Sun, Fuchun and Li, Chang},
+  booktitle={ACM International Conference on Multimedia (ACM MM)},
+  year={2021}
+}
+```
+
 
 ## License
 
